@@ -9,5 +9,5 @@ VS Code Dev Containers 用の dotfiles。コンテナ作成時に `install.sh` �
 VS Code の設定に追加:
 
 ```json
-"dotfiles.repository": "<GitHubユーザー名>/dotfiles"
+"dotfiles.repository": "tomoyuki-coder/dotfiles"
 ```
